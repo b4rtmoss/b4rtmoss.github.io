@@ -1,0 +1,20 @@
+title: B4rtmoss
+author: km
+email: hello@b4rtmoss.net
+description: Digitales Notizbuch
+url: "https://b4rtmoss.github.io"
+
+# Build settings
+remote_theme: huangyz0918/moving
+plugins:
+  - jekyll-feed
+
+moving:
+  about_you: I like Thinkpads 
+  avatar_url:
+  date_format: "%b %d"
+  back_to: "Index"
+  social_links:
+    rss: RSS
+    github: b4rtmoss
+    linkedin:
