@@ -2,7 +2,7 @@ title: B4rtmoss
 author: km
 email: hello@b4rtmoss.net
 description: Digitales Notizbuch
-url: "https://b4rtmoss.github.io"
+url: "https://b4rtmoss.net"
 
 # Build settings
 remote_theme: huangyz0918/moving
@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
 
 moving:
-  about_you: I like Thinkpads 
+  about_you: Ich beschäftige mich in meiner Freizeit mit alten Macs, Thinkpads und Computerspielen
   avatar_url:
   date_format: "%b %d"
   back_to: "Index"
