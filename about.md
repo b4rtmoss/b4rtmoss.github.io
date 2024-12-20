@@ -2,4 +2,4 @@
 layout: about
 ---
 
-Please check out [huangyz.name](https://huangyz.name) for more information.
+Eine digitales Notizbuch zu unterschiedlichen Themen. Starker Fokus auf Retrocomputing, Literatur und Gaming.
